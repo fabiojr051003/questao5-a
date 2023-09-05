@@ -1,0 +1,17 @@
+h1,h2,h3,h4,p{
+    font-family: Arial;
+    }
+body {
+    background-color: brown;
+    }
+h1, p { 
+    color: white;
+    text-align: left;
+    }
+h2 { 
+    color: darkgreen;
+    text-align: left;
+    }
+h4{
+    text-align: center;
+}
